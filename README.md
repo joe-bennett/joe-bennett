@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on my capstone project to graduate from my data science program<br>Currently I am seeking a new role as a data scientist/engineer/analyst<br>
+I am currently working on my capstone project to graduate from my data science program.<br>Currently I am seeking a new role as a data scientist/engineer/analyst.<br>
 
 
 ## 🌐 Socials:
