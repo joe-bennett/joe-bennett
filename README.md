@@ -1,9 +1,9 @@
 # 💫 About Me:
 Combat wounded vet, Certified Financial Planner™ wealth management advisor turned data scientist and aspiring "PyQuant" expert.
 
-I am presently working on my capstone project to graduate from my data science program.<br>
+I just graduated in Nov '22 from the now accredited Codeup Academy data science program.<br>
 
-I am seeking a new role as a data scientist/engineer/analyst.<br>
+I am seeking a new role as a data scientist/engineer/analyst preferably in the finance sector.<br>
 
 
 
